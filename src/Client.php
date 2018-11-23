@@ -3,7 +3,7 @@
 namespace Laravel\Passport;
 
 use Illuminate\Database\Eloquent\Model;
-use UuidTrait;
+use Laravel\Passport\UuidTrait;
 
 class Client extends Model
 {
